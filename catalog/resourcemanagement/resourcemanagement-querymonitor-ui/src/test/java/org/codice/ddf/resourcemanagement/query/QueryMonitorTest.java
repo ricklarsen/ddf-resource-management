@@ -33,7 +33,7 @@ import org.codice.ddf.resourcemanagement.query.service.QueryMonitor;
 import org.junit.Before;
 import org.junit.Test;
 
-public class TestQueryMonitor {
+public class QueryMonitorTest {
 
   private QueryMonitor queryMonitor;
 

@@ -34,7 +34,7 @@ import java.util.UUID;
 import java.util.concurrent.ConcurrentHashMap;
 import org.junit.Test;
 
-public class TestQueryMonitor {
+public class QueryMonitorTest {
 
   QueryMonitorPluginImpl qmpi = new QueryMonitorPluginImpl();
 

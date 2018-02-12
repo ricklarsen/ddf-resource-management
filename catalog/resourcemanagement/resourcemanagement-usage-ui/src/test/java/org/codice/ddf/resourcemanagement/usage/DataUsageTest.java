@@ -34,7 +34,7 @@ import org.junit.Before;
 import org.junit.Test;
 import org.mockito.invocation.InvocationOnMock;
 
-public class TestDataUsage {
+public class DataUsageTest {
 
   private static final String USER_BOB = "Bob";
 
