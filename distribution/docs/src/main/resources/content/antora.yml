@@ -1,0 +1,9 @@
+name: ddf-resource-management-docs
+version: 2.23.0
+title: DDF Resource Management 
+start_page: index.adoc 
+nav:
+- modules/ROOT/nav.adoc
+- modules/architectures/nav.adoc
+- modules/reference/nav.adoc
+

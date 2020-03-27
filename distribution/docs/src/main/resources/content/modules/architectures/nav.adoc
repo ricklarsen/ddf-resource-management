@@ -1,0 +1,3 @@
+
+.Plugins
+* xref:architectures:plugins/resource-usage-plugin.adoc[Resource Usage Plugin]
